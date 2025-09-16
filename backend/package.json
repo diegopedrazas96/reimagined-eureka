@@ -1,0 +1,23 @@
+{
+  "name": "reimagined-eureka",
+  "version": "1.0.0",
+  "description": "Code Challenge for Senior Full Stack Engineer (SSr. Fullstack Engineer B)\r Code Challenge\r Challenge Title: Build a Mini Full-Stack Task Manager API with React Frontend\r Description:",
+  "main": "delete.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegopedrazas96/reimagined-eureka.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegopedrazas96/reimagined-eureka/issues"
+  },
+  "homepage": "https://github.com/diegopedrazas96/reimagined-eureka#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.18.1"
+  }
+}
